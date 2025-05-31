@@ -1,0 +1,58 @@
+Challenge Task:
+Objective:
+
+Build a working script or simple tool that can do the following:
+
+1. Accept a public video URL (e.g., Loom or direct MP4 link).
+2. Extract the audio from the video.
+3. Analyze the speaker’s accent to detect English language speaking candidates. 
+4. Output:
+  - Classification of the accent (e.g., British, American, Australian, etc.)
+  - A confidence in English accent score (e.g., 0-100%)
+  - A short summary or explanation (optional) 
+
+This tool will be used internally to help evaluate spoken English for hiring purposes.
+
+What We're Looking For:
+
+Top Priority:
+
+- Practicality – Can you build something that actually works?
+- Creativity – Did you come up with a smart or resourceful solution?
+- Technical Execution – Is it clean, testable, and logically structured?
+
+You’re free to use any tools or languages you’re comfortable with (Python, JavaScript, no-code tools, open-source APIs, etc.).
+
+Deliverables:
+
+- A working script, notebook, or small app (CLI, Streamlit, Flask—your choice)
+- Deploy it somewhere with simple UI so it can be tested by clicking the link
+
+Time Expectation:
+
+This task is unpaid, so please don’t spend more than 4–6 hours. We’re looking for working proof-of-concept, not perfection. If you already have something similar, feel free to repurpose or expand it.
+
+ 
+Evaluation: (Pass/Fail Screening)
+
+Area    
+
+Must-Have for Pass
+
+Notes  
+Functional Script Yes 
+Must run and return accent classification
+Logical Approach Yes 
+Uses valid methods for transcription + scoring
+Setup Clarity Yes 
+	
+
+Clear README to test it
+Accent Handling (English) Yes 
+	
+Only English accents are needed
+Bonus: Confidence Scoring
+	
+
+Optional
+    Points for extra polish or creativity
