@@ -39,6 +39,8 @@ The high-code approach was selected in this case to ensure maximum flexibility, 
 - The solution requires python 3.10+ and is tested in a linux environment
 - A production grade solution would be delivered as a docker container and hosted on a cloud platform.
 
+- testing files have been included in the [ test_files folder ](./test_files/)
+
 ```sh
 
 # - download project from git
@@ -64,7 +66,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-Tha app will then be accesible at a URL displayed when the streamlit UI runs.
+The app will then be accesible at a URL displayed when the streamlit UI runs.
 
 #### Usage Screenshots
 
